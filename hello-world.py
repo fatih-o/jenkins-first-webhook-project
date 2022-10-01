@@ -1,1 +1,1 @@
-print('Hellow Fatih')
+print('Hellow Fatih trigger oldu nooldu')
