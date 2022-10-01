@@ -1,1 +1,1 @@
-print('Hellow Fatih trigger oldu nooldu ££3333')
+print('Hellow Fatih trigger oldu noolduki')
